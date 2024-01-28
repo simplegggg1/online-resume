@@ -1,0 +1,41 @@
+TAEYOUNG PARK
+6 Kostas St, Sunbury, VIC 3429
+0497-702-354
+simplegggg1@gmail.com
+
+C# Developer with 2 years and 8 months of experience in windows program developing and data migration. Bachelor in Computer Science.  
+
+TECHNICAL SKILLS	
+•	C# Winforms .Net 4.0~4.6 with Visual Studio
+•	SQL Server 2008 R2 – Create and modify database, table, SQL, transaction, stored procedure.
+PROFESSIONAL EXPERIENCE	
+ 
+KOSTEC 	    South Korea
+Developer 					                  Jun 2014 – Jan 2017
+•	Develop CRM program including sales/purchase/stock management, money transfer record, electronic tax invoice, various statistics, and report generating services. Report, receipt customizing and printing feature.
+•	Migrate/integrate old Visual Basic programs’ data and features.
+•	Technical support via TeamViewer remote access.
+
+EDUCATION	
+ILSC Greyschool College     					          		    		          Australia 
+Diploma of Project Management 							    Nov 2019 – Feb 2021
+•	8/12 units’ competency achieved.
+KOREA POLYTECHNIC UNIVERSITY     					          		    South Korea 
+Bachelor of Science in Computer Engineering, 							          Feb 2014 
+•	GPA 4.22/4.5
+License/Certificate	
+Microsoft Certificates
+•	Azure fundamental, data fundamental, security fundamental                 			          Sep 2022
+•	Azure Developer Associate               			          				         May 2023
+Career Breaks	
+•	Truck driver, waste cooking oil collection.						      May 2022 – Current
+•	Grocery/Food delivery driver in Ubereats, Doordash, DriveYello platforms.     	    Nov 2019 – Apr 2022
+•	Working Holiday in Australia							     Aug 2017 – Aug2019
+– General labourer in abattoir (3 months). Forklift driver in a panel factory (1 year).
+•	Language study – English									  Feb - Jul 2017
+Other Experiences	
+•	Basic understanding of HTML, CSS, JavaScript. 
+https://github.com/simplegggg1/web-dev-study-2023
+•	Debugging Experience in Visual Studio.
+•	Basic multi-threading experience.
+•	Ability to prioritise tasks, and keep track of them.
